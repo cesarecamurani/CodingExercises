@@ -1,3 +1,3 @@
 # CodingExercises
 
-Java exercises from Java masterclass course
+Exercises from Java masterclass course
